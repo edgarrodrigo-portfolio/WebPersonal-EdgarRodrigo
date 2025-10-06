@@ -1,22 +1,41 @@
 body {
-    background-color: lightblue;
+    background-color: #e0f7fa; /* blau molt suau */
     font-family: Arial, sans-serif;
     text-align: center;
+    margin: 20px;
 }
 
 h1 {
     color: darkblue;
+    text-decoration: underline;
 }
 
 h2 {
     color: darkred;
+    margin-top: 30px;
 }
 
 p {
     color: black;
+    font-size: 16px;
 }
 
 img {
     border: 3px solid black;
     border-radius: 5px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
