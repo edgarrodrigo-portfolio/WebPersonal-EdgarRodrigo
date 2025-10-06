@@ -1,0 +1,1 @@
+Activitat de WebPersonal, practica amb GIT i GitHub, per aprendre a treballar ambdos.
